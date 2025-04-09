@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7501C4DF-A844-40A0-8742-3343E48E55F1}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BioFSharp.XYZ", "src\BioFSharp.XYZ\BioFSharp.XYZ.fsproj", "{BAC97B5C-B9A6-40D6-B533-0A07E12939ED}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BioFSharp.Interactive", "src\BioFSharp.Interactive\BioFSharp.Interactive.fsproj", "{BAC97B5C-B9A6-40D6-B533-0A07E12939ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D152DA0B-8F60-4611-B613-642379E2B17C}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BioFSharp.XYZ.Tests", "tests\BioFSharp.XYZ.Tests\BioFSharp.XYZ.Tests.fsproj", "{CB9E38BC-EE86-44EB-AFF5-91D1AF713ADC}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BioFSharp.Interactive.Tests", "tests\BioFSharp.Interactive.Tests\BioFSharp.Interactive.Tests.fsproj", "{CB9E38BC-EE86-44EB-AFF5-91D1AF713ADC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{77A50576-9359-44E5-B2F9-95318AB3DAEA}"
 	ProjectSection(SolutionItems) = preProject
